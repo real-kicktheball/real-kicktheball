@@ -32,12 +32,7 @@
   </tr>
 </table>
 
-<br>
-<br>
-
 ---
-
-<br>
 
 ## 🔗 Connect with Me
 <br>
