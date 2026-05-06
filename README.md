@@ -9,3 +9,19 @@
   <img src="https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
+
+### 💻 My Top Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,linux,kali,ubuntu,androidstudio,git,mysql)](https://skillicons.dev)
+
+<!-- 한 줄에 너무 많으면 아래처럼 나눠서 배치할 수 있습니다 -->
+[![My Skills](https://skillicons.dev/icons?i=reverse,pwn,ctf)](https://skillicons.dev)
+
+### 🔍 Areas of Interest
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | `C/C++`, `Python`, `x86-64 Assembly` |
+| **Security** | `Malware Analysis`, `Reverse Engineering`, `Pwnable` |
+| **Environment** | `Kali Linux`, `Ubuntu`, `Windows` |
+| **Development** | `Android Studio`, `Git`, `Mobile Security` |
