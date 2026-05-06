@@ -4,35 +4,50 @@
 
 ## 🛠 Technologies & Skills
 
-<!-- 간격을 줄이고 완벽 정렬을 위해 HTML 테이블 사용 -->
-<table align="center">
+<!-- HTML 태그 내에서는 img 태그를 사용해야 합니다 -->
+<table align="center" style="border-collapse: collapse; border: none; margin-top: 10px;">
   <tr style="border: none;">
-    <td align="right" style="border: none; padding: 0px 10px 0px 0px; font-weight: bold; vertical-align: middle;">Languages</td>
-    <td align="left" style="border: none; padding: 0px; vertical-align: middle;">
-      [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+    <td align="right" style="border: none; padding: 5px 15px 5px 0px; font-weight: bold; vertical-align: middle;">Languages</td>
+    <td align="left" style="border: none; padding: 5px 0px; vertical-align: middle;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40">
+      </a>
     </td>
   </tr>
   <tr style="border: none;">
-    <td align="right" style="border: none; padding: 0px 10px 0px 0px; font-weight: bold; vertical-align: middle;">OS</td>
-    <td align="left" style="border: none; padding: 0px; vertical-align: middle;">
-      [![My Skills](https://skillicons.dev/icons?i=kali,windows)](https://skillicons.dev)
+    <td align="right" style="border: none; padding: 5px 15px 5px 0px; font-weight: bold; vertical-align: middle;">OS</td>
+    <td align="left" style="border: none; padding: 5px 0px; vertical-align: middle;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=kali,windows" alt="Kali, Windows" height="40">
+      </a>
     </td>
   </tr>
   <tr style="border: none;">
-    <td align="right" style="border: none; padding: 0px 10px 0px 0px; font-weight: bold; vertical-align: middle;">Development</td>
-    <td align="left" style="border: none; padding: 0px; vertical-align: middle;">
-      [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio)](https://skillicons.dev)
+    <td align="right" style="border: none; padding: 5px 15px 5px 0px; font-weight: bold; vertical-align: middle;">Development</td>
+    <td align="left" style="border: none; padding: 5px 0px; vertical-align: middle;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,androidstudio" alt="VSCode, Android Studio" height="40">
+      </a>
     </td>
   </tr>
 </table>
 
+<br>
 <br>
 
 ---
 
 <br>
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=real-kicktheball&layout=compact&theme=vision-friendly-dark" width="500px" />
+## 🔗 Connect with Me
+<br>
+
+<!-- 예쁜 블로그 링크 (배지 스타일) -->
+<a href="https://blog.naver.com/chanhuorgo0503" target="_blank">
+  <img src="https://img.shields.io/badge/Real--Kicktheball's%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Blog">
+</a>
+
+<br>
+<br>
 
 </div>
