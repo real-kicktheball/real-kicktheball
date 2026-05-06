@@ -6,35 +6,37 @@
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td align="right" style="border: none; padding: 5px 15px 5px 0px; font-weight: bold; vertical-align: middle;">Languages</td>
-    <td align="left" style="border: none; padding: 5px 0px; vertical-align: middle;">
+    <td align="right" style="border: none; padding: 10px 20px 10px 0px; font-weight: bold; font-size: 20px; vertical-align: middle;">Languages</td>
+    <td align="left" style="border: none; padding: 10px 0px; vertical-align: middle;">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" height="50">
       </a>
     </td>
   </tr>
   <tr style="border: none;">
-    <td align="right" style="border: none; padding: 5px 15px 5px 0px; font-weight: bold; vertical-align: middle;">OS</td>
-    <td align="left" style="border: none; padding: 5px 0px; vertical-align: middle;">
+    <td align="right" style="border: none; padding: 10px 20px 10px 0px; font-weight: bold; font-size: 20px; vertical-align: middle;">OS</td>
+    <td align="left" style="border: none; padding: 10px 0px; vertical-align: middle;">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=kali,windows" alt="Kali, Windows" height="40">
+        <img src="https://skillicons.dev/icons?i=kali,windows" alt="Kali, Windows" height="50">
       </a>
     </td>
   </tr>
   <tr style="border: none;">
-    <td align="right" style="border: none; padding: 5px 15px 5px 0px; font-weight: bold; vertical-align: middle;">Development</td>
-    <td align="left" style="border: none; padding: 5px 0px; vertical-align: middle;">
+    <td align="right" style="border: none; padding: 10px 20px 10px 0px; font-weight: bold; font-size: 20px; vertical-align: middle;">Development</td>
+    <td align="left" style="border: none; padding: 10px 0px; vertical-align: middle;">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,androidstudio" alt="VSCode, Android Studio" height="40">
+        <img src="https://skillicons.dev/icons?i=vscode,androidstudio" alt="VSCode, Android Studio" height="50">
       </a>
     </td>
   </tr>
 </table>
 
-## 🔗 Connect with Me
+<br>
 
-<a href="https://blog.naver.com/chanhuorgo0503" target="_blank">
-  <img src="https://img.shields.io/badge/Real--Kicktheball's%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Blog">
+## 🔗 My Blog
+
+<a href="https://real-kicktheball.tistory.com" target="_blank">
+  <img src="https://img.shields.io/badge/Real--Kicktheball's%20Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory Blog">
 </a>
 
 </div>
