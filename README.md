@@ -31,8 +31,6 @@
   </tr>
 </table>
 
-<br>
-
 ## 🔗 Connect with Me
 
 <a href="https://blog.naver.com/chanhuorgo0503" target="_blank">
