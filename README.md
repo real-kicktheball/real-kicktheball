@@ -31,8 +31,6 @@
   </tr>
 </table>
 
-<br>
-
 ## 🔗 My Blog
 
 <a href="https://real-kicktheball.tistory.com" target="_blank">
