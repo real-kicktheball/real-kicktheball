@@ -4,8 +4,7 @@
 
 ## 🛠 Technologies & Skills
 
-<!-- HTML 태그 내에서는 img 태그를 사용해야 합니다 -->
-<table align="center" style="border-collapse: collapse; border: none; margin-top: 10px;">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td align="right" style="border: none; padding: 5px 15px 5px 0px; font-weight: bold; vertical-align: middle;">Languages</td>
     <td align="left" style="border: none; padding: 5px 0px; vertical-align: middle;">
@@ -32,17 +31,12 @@
   </tr>
 </table>
 
----
-
-## 🔗 Connect with Me
 <br>
 
-<!-- 예쁜 블로그 링크 (배지 스타일) -->
+## 🔗 Connect with Me
+
 <a href="https://blog.naver.com/chanhuorgo0503" target="_blank">
   <img src="https://img.shields.io/badge/Real--Kicktheball's%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Blog">
 </a>
-
-<br>
-<br>
 
 </div>
