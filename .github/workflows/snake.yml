@@ -1,0 +1,31 @@
+name: Generate Snake
+
+on:
+  # 24시간마다 한 번씩 자동으로 실행
+  schedule:
+    - cron: "0 0 * * *"
+  # 수동으로도 실행할 수 있도록 설정
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 커밋 잔디를 기반으로 스네이크 애니메이션 생성
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 생성된 파일을 output 브랜치에 배포
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
